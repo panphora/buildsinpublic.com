@@ -25,3 +25,12 @@ button {
 img {
   max-width: 100%;
 }
+
+.gang {
+  columns: 3 150px;
+}
+
+.gang > a {
+  display: block;
+  margin-bottom: 5px;
+}
